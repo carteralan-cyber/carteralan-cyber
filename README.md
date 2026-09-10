@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Carter  👋
 
-<!--
-**carteralan-cyber/carteralan-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior at Baldwin Wallace University pursuing a bachelors in business and finance
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a bachelors in finance and business administration at Baldwin Wallace University
+* 🔭 **Current Focus:** Learning MIS systems  
+* 🌱 **Currently Building:** webapp built on PythonAnywhere using Claude 
+* 💡 **Interests:** Finance, Business, analytics  
+* ⚡ **Fun Fact:** I play on the soccer team here at Baldwin Wallace
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Claude | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** Carichar24@bw.edu 
