@@ -1,5 +1,7 @@
 # Hi there, I'm Carter  👋
 
+## Download my resume [here.](https://rawcdn.githack.com/carteralan-cyber/carteralan-cyber/44febf4f49da8e1fb2bf8830120deca57b90201f/Carter%20Richardson%20Resume%20(3)%20(1).pdf)
+
 I am a Junior at Baldwin Wallace University pursuing a bachelors in business and finance
 
 ---
